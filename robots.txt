@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://flymorec.github.io/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/app/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/assets/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/css/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/data/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/includes/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/item/sitemap.flymorec.gz
+Sitemap: https://flymorec.github.io/src/sitemap.flymorec.gz
